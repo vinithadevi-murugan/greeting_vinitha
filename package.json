@@ -1,6 +1,6 @@
 {
   "name": "greeting_vinitha",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This will greet the user",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
