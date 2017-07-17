@@ -1,19 +1,29 @@
 {
   "name": "greeting_vinitha",
   "version": "1.0.0",
-  "description": "",
+  "description": "This will greet the user",
   "main": "dist/index.js",
-  "types":"dist/index.d.ts",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "prepublish":"npm run build",
-    "build":"tsc",
+    "prepublish": "npm run build",
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
-    
   },
   "keywords": [],
-  "author": "",
+  "author": "vinithamurugan",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^2.4.1"
-  }
+  },
+  "dependencies": {
+    "typescript": "^2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinithadevi-murugan/greeting_vinitha.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vinithadevi-murugan/greeting_vinitha/issues"
+  },
+  "homepage": "https://github.com/vinithadevi-murugan/greeting_vinitha#readme"
 }
